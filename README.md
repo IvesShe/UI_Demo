@@ -4,3 +4,7 @@
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723587.jpg?raw=true" width="200"/>
 </center>
+
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/UI_Demo/S__38723588.jpg?raw=true" width="200"/>
+</center>
